@@ -1,0 +1,12 @@
+text:
+  copyright: o7planning.org
+
+# ===========================
+# Database
+# ==========================
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/about_company_service
+    username: root
+    password: root
